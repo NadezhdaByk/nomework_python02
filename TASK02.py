@@ -8,3 +8,7 @@ def Summery(N):
         sum+=i
     return sum
 print(Summery(N))
+
+# решение от Дениса
+# n = int(input())
+# print(int(((n + 1) / 2) * n))
